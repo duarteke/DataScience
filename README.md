@@ -1,1 +1,3 @@
 # DataScience
+
+Adding some notes 
